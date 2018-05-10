@@ -13,7 +13,7 @@
 # @version 1 05/18
 ##############################################################################
 
-#from calcularadora_precios import *
+#from calculadora_precios import *
 import unittest
 
 class TestSuite(unittest.TestCase):
